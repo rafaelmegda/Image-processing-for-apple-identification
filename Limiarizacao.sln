@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Limiarizacao", "Limiarizacao\Limiarizacao.csproj", "{B0E84E36-657B-4D38-8299-0CC47E12BCD2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C6A05C1F-4F41-43AE-8B07-FEDA37AF8D7B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E84E36-657B-4D38-8299-0CC47E12BCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E84E36-657B-4D38-8299-0CC47E12BCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E84E36-657B-4D38-8299-0CC47E12BCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E84E36-657B-4D38-8299-0CC47E12BCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {379E27B0-2A86-4A22-BEC3-1E500F6117A2}
+	EndGlobalSection
+EndGlobal
