@@ -2,3 +2,8 @@
 
 * Library used
   DIPLi.dll
+
+* Applied Methods
+  Convolution
+  Thresholding
+
